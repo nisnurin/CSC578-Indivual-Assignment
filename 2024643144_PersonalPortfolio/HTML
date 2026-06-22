@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <nav id="navbar">
+        <a href="#welcome-section">About</a>
+        <a href="#project-section">Projects</a>
+        <a id="profile-link" href="https://github.com/example" target="_blank">GitHub</a>
+    </nav>
+
+    <section id="welcome-section">
+        <h1>Hi, I'm a Developer</h1>
+        <p>Welcome to my professional space.</p>
+    </section>
+
+    <section id="project-section">
+        <h2>My Projects</h2>
+        <div class="project-tile">
+            <a href="https://example.com">Featured Project</a>
+        </div>
+    </section>
+</body>
+</html>
